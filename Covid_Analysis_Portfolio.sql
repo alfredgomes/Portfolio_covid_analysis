@@ -1,7 +1,3 @@
-----https://ourworldindata.org/covid-deaths-----  
-
---dataset ---
-
 
 select * from [Covid Deaths]
 where continent is not null 
